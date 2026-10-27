@@ -18,3 +18,4 @@ Voy en segundo semestre de la carrera de Ingeniería en IA, me interesa la \*\*e
 
 * \[Prácticas 3: README del proyecto](practica-3/Readme.md)
 
+Cuenta de GitHub: @Boa2671
