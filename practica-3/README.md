@@ -3,8 +3,7 @@
 > Un tutor conversacional de repaso para estudiantes universitarios sin acceso inmediato a un profesor o compañero.
 
 **Proyecto integrador · Herramientas de IA**
-
-**Grupo:** VRAM SQUAD · **Equipo:** 2
+**Equipo:** 2
 
 ## 👥 Integrantes
 
@@ -17,11 +16,7 @@
 
 ## 1. Caso de uso
 
-Se propone un tutor conversacional de repaso para estudiantes universitarios sin acceso inmediato a un 
-profesor o compañero. El estudiante escribe, en lenguaje natural, el tema o duda que quiere repasar, y el 
-sistema responde con una explicación breve en español, a nivel universitario, pudiendo seguir la conversación si 
-se pide más detalle o un ejemplo distinto. El objetivo no es sustituir al profesor, sino ofrecer una primera 
-explicación disponible en cualquier momento, especialmente en semanas de alta carga académica.
+Se propone un tutor conversacional de repaso para estudiantes universitarios sin acceso inmediato a un profesor o compañero. El estudiante escribe, en lenguaje natural, el tema o duda que quiere repasar, y el sistema responde con una explicación breve en español, a nivel universitario, pudiendo seguir la conversación si se pide más detalle o un ejemplo distinto. El objetivo no es sustituir al profesor, sino ofrecer una primera explicación disponible en cualquier momento, especialmente en semanas de alta carga académica.
 
 - **Entrada:** texto
 - **Salida**: texto
@@ -64,7 +59,7 @@ verificarse con el material del curso, y se limitará el caso de uso a temas de 
 exámenes o tareas calificadas).
 
 ## 5. Evidencia
-<<<<<<< HEAD
+
 ![Boceto de la aplicación](diagrama-equipo.png)
 =======
 <img width="690" height="410" alt="image" src="https://github.com/user-attachments/assets/cbfa7a5b-7671-4f47-b16b-3fa1e77fd6ef" />
