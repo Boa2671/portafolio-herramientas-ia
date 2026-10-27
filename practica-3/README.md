@@ -8,12 +8,12 @@
 
 ## 👥 Integrantes
 
-| Nombre completo | Matrícula |
-|-----------------|-----------|
-| Uriel Gutiérrez Mosqueira | 197020-2 |
-| Sebastián Guerrero Ambriz | 197113-2 |
-| Angela de la Rosa Sevilla | 197002-6 |
-| Alejandro Zapien Castrejón | 197097-1 |
+| Nombre completo |
+|-----------------|
+| Uriel Gutiérrez Mosqueira |
+| Sebastián Guerrero Ambriz |
+| Angela de la Rosa Sevilla |
+| Alejandro Zapien Castrejón |
 
 ## 1. Caso de uso
 
