@@ -1,10 +1,4 @@
-\# Comandos que aprendí
-
-
-
-
-
-
+# Comandos que aprendí
 
 |Comando | Para que sirve |
 |---|---|
