@@ -9,6 +9,6 @@ Voy en segundo semestre de la carrera de Ingeniería en IA, me interesa la **est
 * [Mis comandos de terminal y Git (Práctica 4)](notas/comandos.md)
 
 ## Mi proyecto
-* [Prácticas 3: README del proyecto](practica-3/README.md)
+* [Repositorio del equipo 2]([practica-3/README.md](https://github.com/Boa2671/in1050-2-tutor)
 
 Cuenta de GitHub: [@Boa2671](https://github.com/Boa2671)
